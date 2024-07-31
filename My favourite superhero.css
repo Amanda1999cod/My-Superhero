@@ -1,0 +1,51 @@
+body { margin: 0;
+       font-size: 20px;
+       line-height: 30px;
+       font-family: serif, Arial, Helvetica, sans-serif;
+       }
+
+header {
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQA8wMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBwT/xAAmEAEBAAIDAAEEAgIDAAAAAAAAAREhAjFBEgMiUXEyYXKBIzND/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECBQP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwDlmRe0Sr0ObYANjaoc6L0dHNiDOiP0gNMuuSsfblPGdosKXZc98lcfwXKCljZ3joWY/YlvVFHm9xNaXpPxE1J8vBZg73M/gUs41B8vAMZBNnnhSYVy459LGsIpHgcqJsBBYrEK2qhYGCCKE4UBUhfyn4AacVKeMFjSsauXITx0pUIFREDnYFmi6iiv/Mvp3Ku+CfpzGQP0uVirEcwiFzCDRVVU0jss0MXdpx+Rx5enbO8gkqKQolNPquWtCpuz46KKiA5Zicru0WKQAginZRgs0ZAsX+gZA9F2mU5RhXmcguhDsUTx9ycpcprQkBeMl9SYkPjfD52WSfgRMuOOKOGtn9SJ4buxV9o594Vw7R9S/cEKQWFLhV5I0XEYKXau+hBJJcJ5TelYK0E4LqK9pXYqZ2duaUPCKJPtyeRj7C9UVP7Rbtdsxj1lQiig8JFwz6Tk9AMgaANMqynAVhcNEVKIeMldHD8ETKM5uId429FNY/aqqy8uOk/T1bK15TCb8fBNTbi6RyubV4ReIsQJ3s8WdCZztGj+38nNQr/icoHNp5ZlVjMLONAnP5h5h8qnAC48GR8SwKfG+U78Z1T4xF4iHxuZUcu2nGYiLZnaLKkQ9eFvwa0YGFXpIGB8aQjYYFOKweCwc7MQHIAqHNDlwnLrQvQlEH1P4xPFfKZR1ykgqrqM7drvTMWCUXsi9RrF8JmjlMJnLHSvnjzIgzZNJzvNV8tYwiinz70UKgU7Tkqcj/YK8RcqhWbEiuPLTPl2rBVFKKTIYopSbUXDINAAMkqWfkp1k8RUqoMFF40rNSDoA+4Umzhe0DoxP9i6HHsC5dIac+mfmRYiibirNIxco0rAnH+0WU5bAVZSnY+VogCkZ8ZATjYXcDVDUw72Ry5AXE0mnzuaWRYRwrsYRRT4JrT6f8ciFbsEBFyzGFM4rKpVTGVysuul8bfVSxdKjIoyRH4Qot6/R8bsYKTAqud0ytuMNL0yvdRYMlnaaUqNY0lyMaRnapVBIdLJ6wIQ9EHDfLYC9l0oWwEHJcjCoKiwmlwjQQUsqszE4RQ04f8AXazacb/xiVIMKiV+JitCnKeS4nYMnxvZ52jjOzwJVWlKWBhQZ+6lbc9neOk9Iq++KLMHnMZ3IsV51lHozfwEaOGUOXYgPuDlNCdKCaOVNEuAw+VSq7RUIoZLInYHCVSyoE3tWSqAi5PsQrIJyABTwBQqKivE8VcuhlOarj0nOO1SwKYl2LMjjNiF8k3f6BdzA1FfxRbvpW/jioosF5J9McZtFUUp0CDOky08wANkLQKudJvY8IQDOBBdinnI/aYYC9gUADpC3IFkjIVoIArKuKuf8QBnqIfoAqlcAFZrOkAjSvGfPsAUqfABFqqgBUgPwBFSZAFDn0ACVUgAgAA4mgAcIAWJACD/2Q==);
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+header h1 {color: whitesmoke;
+           font-size: 80px;
+}
+
+header img {border-radius: 150px;
+            width: 200px;
+            margin-top: 40px;
+            margin-bottom: 20px;}
+
+main {max-width: 800px;
+      margin: 0 auto;
+      padding-top: 50px;
+      padding-bottom: 50px}
+            
+h1, h2 {font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        }
+            
+h2 {color: rgb(34, 145, 71);}
+
+main img {max-width: 100%;}
+
+a{color: rgb(34, 145, 71);}
+
+a:hover {color: rgb(124, 7, 7);}
+
+footer {background-color:rgb(15, 39, 15);
+        text-align: center;
+        color:whitesmoke;
+        padding: 50px
+    }
+
+footer p {margin: 0;}
+
+#caption {color:rgb(78, 76, 76);
+          font-style: italic;
+          margin-top: 0px;
+}
+          
